@@ -126,6 +126,10 @@ cd third_party/cargo
 cargo raze
 ```
 
+## Similar tools
+
+- [paths2indent](https://github.com/bAndie91/tools/blob/master/usr/bin/paths2indent) plus [indent2tree](https://github.com/bAndie91/tools/blob/master/usr/bin/indent2tree) written in perl, https://unix.stackexchange.com/questions/212018/how-to-display-btrfs-subvolume-tree/555553#555553
+
 ## TODO(jez)
 
 - rustfmt / buildifier / shellcheck in CI
